@@ -1,5 +1,6 @@
-hello
-
-voefvjerpvoj
-copyright 2022i
-
+just line
+<<<<<<< HEAD
+some changes
+=======
+second line
+>>>>>>> 4c143e5 (add something)
